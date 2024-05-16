@@ -1,0 +1,49 @@
+# Obtener todos los Pokémon
+GET http://localhost:3000/pokemon HTTP/1.1
+
+### Obtener Pokémon
+GET http://localhost:3000/pokemon/6643ca35cf1e770ac6df53a7 HTTP/1.1
+
+### Eliminar Pokémon
+DELETE http://localhost:3000/pokemon/6643d56f3bed9ffb77eb1c2d HTTP/1.1
+
+### Crear Pokémon
+POST http://localhost:3000/pokemon HTTP/1.1
+content-type: application/json
+
+{
+  "number": 1,
+  "name": "alacalufe",
+  "sprite": "https://w7.pngwing.com/pngs/585/436/png-transparent-pokemon-pikachu-illustration-icon-pikachu-background-mammal-food-vertebrate.png",
+  "generation": "III",
+  "types": ["fuego", "agua"],
+  "abilities": {
+    "first": "dsakjlas",
+    "second": "dsaklkjdsa",
+    "hidden": "adssda" 
+  },
+  "stats": {
+    "hp": 50,
+    "attack": 20,
+    "defense": 40,
+    "specialAttack":50,
+    "specialDefense":20,
+    "speed": 4
+  }
+}
+
+### Actualizar Pokémon
+PATCH http://localhost:3000/pokemon/6643d56f3bed9ffb77eb1c2d HTTP/1.1
+content-type: application/json
+
+{
+  "type": "agua"
+}
+
+### Crear muchos Pokémon
+POST http://localhost:3000/pokemon/createMany
+Content-Type: application/json
+
+{
+  "route": "data\\pokemon.json"
+}

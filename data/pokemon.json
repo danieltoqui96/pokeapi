@@ -1,0 +1,2860 @@
+[
+  {
+    "key": "Bulbasaur",
+    "name": "Bulbasaur",
+    "form": null,
+    "number": 1,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Espesura", "second": null, "hidden": "Clorofila" },
+    "stats": [45, 49, 49, 65, 65, 45]
+  },
+  {
+    "key": "Ivysaur",
+    "name": "Ivysaur",
+    "form": null,
+    "number": 2,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Espesura", "second": null, "hidden": "Clorofila" },
+    "stats": [60, 62, 63, 80, 80, 60]
+  },
+  {
+    "key": "Venusaur",
+    "name": "Venusaur",
+    "form": null,
+    "number": 3,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Espesura", "second": null, "hidden": "Clorofila" },
+    "stats": [80, 82, 83, 100, 100, 80]
+  },
+  {
+    "key": "Mega-Venusaur",
+    "name": "Mega-Venusaur",
+    "form": null,
+    "number": 3,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Sebo", "second": null, "hidden": null },
+    "stats": [80, 100, 123, 122, 120, 80]
+  },
+  {
+    "key": "Charmander",
+    "name": "Charmander",
+    "form": null,
+    "number": 4,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Mar llamas",
+      "second": null,
+      "hidden": "Poder solar"
+    },
+    "stats": [39, 52, 43, 60, 50, 65]
+  },
+  {
+    "key": "Charmeleon",
+    "name": "Charmeleon",
+    "form": null,
+    "number": 5,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Mar llamas",
+      "second": null,
+      "hidden": "Poder solar"
+    },
+    "stats": [58, 64, 58, 80, 65, 80]
+  },
+  {
+    "key": "Charizard",
+    "name": "Charizard",
+    "form": null,
+    "number": 6,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "types": ["fuego", "volador"],
+    "abilities": {
+      "first": "Mar llamas",
+      "second": null,
+      "hidden": "Poder solar"
+    },
+    "stats": [78, 84, 78, 109, 85, 100]
+  },
+  {
+    "key": "Mega-Charizard X",
+    "name": "Mega-Charizard X",
+    "form": null,
+    "number": 6,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "types": ["fuego", "drag\u00f3n"],
+    "abilities": { "first": "Garra dura", "second": null, "hidden": null },
+    "stats": [78, 130, 111, 130, 85, 100]
+  },
+  {
+    "key": "Mega-Charizard Y",
+    "name": "Mega-Charizard Y",
+    "form": null,
+    "number": 6,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
+    "types": ["fuego", "volador"],
+    "abilities": { "first": "Sequ\u00eda", "second": null, "hidden": null },
+    "stats": [78, 104, 78, 159, 115, 100]
+  },
+  {
+    "key": "Squirtle",
+    "name": "Squirtle",
+    "form": null,
+    "number": 7,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Torrente",
+      "second": null,
+      "hidden": "Cura lluvia"
+    },
+    "stats": [44, 48, 65, 50, 64, 43]
+  },
+  {
+    "key": "Wartortle",
+    "name": "Wartortle",
+    "form": null,
+    "number": 8,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Torrente",
+      "second": null,
+      "hidden": "Cura lluvia"
+    },
+    "stats": [59, 63, 80, 65, 80, 58]
+  },
+  {
+    "key": "Blastoise",
+    "name": "Blastoise",
+    "form": null,
+    "number": 9,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Torrente",
+      "second": null,
+      "hidden": "Cura lluvia"
+    },
+    "stats": [79, 83, 100, 85, 105, 78]
+  },
+  {
+    "key": "Mega-Blastoise",
+    "name": "Mega-Blastoise",
+    "form": null,
+    "number": 9,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
+    "types": ["agua"],
+    "abilities": { "first": "Megadisparador", "second": null, "hidden": null },
+    "stats": [79, 103, 120, 135, 115, 78]
+  },
+  {
+    "key": "Caterpie",
+    "name": "Caterpie",
+    "form": null,
+    "number": 10,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
+    "types": ["bicho"],
+    "abilities": { "first": "Polvo escudo", "second": null, "hidden": "Fuga" },
+    "stats": [45, 30, 35, 20, 20, 45]
+  },
+  {
+    "key": "Metapod",
+    "name": "Metapod",
+    "form": null,
+    "number": 11,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "types": ["bicho"],
+    "abilities": { "first": "Mudar", "second": null, "hidden": null },
+    "stats": [50, 20, 55, 25, 25, 30]
+  },
+  {
+    "key": "Butterfree",
+    "name": "Butterfree",
+    "form": null,
+    "number": 12,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/12.png",
+    "types": ["bicho", "volador"],
+    "abilities": {
+      "first": "Ojo compuesto",
+      "second": null,
+      "hidden": "Cromolente"
+    },
+    "stats": [60, 45, 50, 901, 80, 70]
+  },
+  {
+    "key": "Weedle",
+    "name": "Weedle",
+    "form": null,
+    "number": 13,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
+    "types": ["bicho", "veneno"],
+    "abilities": { "first": "Polvo escudo", "second": null, "hidden": "Fuga" },
+    "stats": [40, 35, 30, 20, 20, 50]
+  },
+  {
+    "key": "Kakuna",
+    "name": "Kakuna",
+    "form": null,
+    "number": 14,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "types": ["bicho", "veneno"],
+    "abilities": { "first": "Mudar", "second": null, "hidden": null },
+    "stats": [45, 25, 50, 25, 25, 35]
+  },
+  {
+    "key": "Beedrill",
+    "name": "Beedrill",
+    "form": null,
+    "number": 15,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "types": ["bicho", "veneno"],
+    "abilities": {
+      "first": "Enjambre",
+      "second": null,
+      "hidden": "Francotirador"
+    },
+    "stats": [65, 901, 40, 45, 80, 75]
+  },
+  {
+    "key": "Mega-Beedrill",
+    "name": "Mega-Beedrill",
+    "form": null,
+    "number": 15,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "types": ["bicho", "veneno"],
+    "abilities": { "first": "Adaptable", "second": null, "hidden": null },
+    "stats": [65, 150, 40, 15, 80, 145]
+  },
+  {
+    "key": "Pidgey",
+    "name": "Pidgey",
+    "form": null,
+    "number": 16,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
+    "types": ["normal", "volador"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": "Tumbos",
+      "hidden": "Sacapecho"
+    },
+    "stats": [40, 45, 40, 35, 35, 56]
+  },
+  {
+    "key": "Pidgeotto",
+    "name": "Pidgeotto",
+    "form": null,
+    "number": 17,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "types": ["normal", "volador"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": "Tumbos",
+      "hidden": "Sacapecho"
+    },
+    "stats": [63, 60, 55, 50, 50, 71]
+  },
+  {
+    "key": "Pidgeot",
+    "name": "Pidgeot",
+    "form": null,
+    "number": 18,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "types": ["normal", "volador"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": "Tumbos",
+      "hidden": "Sacapecho"
+    },
+    "stats": [83, 80, 75, 70, 70, 1012]
+  },
+  {
+    "key": "Mega-Pidgeot",
+    "name": "Mega-Pidgeot",
+    "form": null,
+    "number": 18,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
+    "types": ["normal", "volador"],
+    "abilities": { "first": "Indefenso", "second": null, "hidden": null },
+    "stats": [83, 80, 80, 135, 80, 121]
+  },
+  {
+    "key": "Rattata",
+    "name": "Rattata",
+    "form": null,
+    "number": 19,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Agallas",
+      "second": "Fuga",
+      "hidden": "Entusiasmo"
+    },
+    "stats": [30, 56, 35, 25, 35, 72]
+  },
+  {
+    "key": "Rattata de Alola",
+    "name": "Rattata de Alola",
+    "form": null,
+    "number": 19,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/19.png",
+    "types": ["siniestro", "normal"],
+    "abilities": { "first": "Gula", "second": "Entusiasmo", "hidden": "Sebo" },
+    "stats": [30, 56, 35, 25, 35, 72]
+  },
+  {
+    "key": "Raticate",
+    "name": "Raticate",
+    "form": null,
+    "number": 20,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Agallas",
+      "second": "Fuga",
+      "hidden": "Entusiasmo"
+    },
+    "stats": [55, 81, 60, 50, 70, 97]
+  },
+  {
+    "key": "Raticate de Alola",
+    "name": "Raticate de Alola",
+    "form": null,
+    "number": 20,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "types": ["siniestro", "normal"],
+    "abilities": { "first": "Gula", "second": "Entusiasmo", "hidden": "Sebo" },
+    "stats": [75, 71, 70, 40, 80, 77]
+  },
+  {
+    "key": "Spearow",
+    "name": "Spearow",
+    "form": null,
+    "number": 21,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
+    "types": ["normal", "volador"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": null,
+      "hidden": "Francotirador"
+    },
+    "stats": [40, 60, 30, 31, 31, 70]
+  },
+  {
+    "key": "Fearow",
+    "name": "Fearow",
+    "form": null,
+    "number": 22,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
+    "types": ["normal", "volador"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": null,
+      "hidden": "Francotirador"
+    },
+    "stats": [65, 90, 65, 61, 61, 100]
+  },
+  {
+    "key": "Ekans",
+    "name": "Ekans",
+    "form": null,
+    "number": 23,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Mudar",
+      "hidden": "Nerviosismo"
+    },
+    "stats": [35, 60, 44, 40, 54, 55]
+  },
+  {
+    "key": "Arbok",
+    "name": "Arbok",
+    "form": null,
+    "number": 24,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Mudar",
+      "hidden": "Nerviosismo"
+    },
+    "stats": [60, 953, 69, 65, 79, 80]
+  },
+  {
+    "key": "Pikachu",
+    "name": "Pikachu",
+    "form": null,
+    "number": 25,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+    "types": ["el\u00e9ctrico"],
+    "abilities": {
+      "first": "Electricidad est\u00e1tica",
+      "second": null,
+      "hidden": "Pararrayos"
+    },
+    "stats": [35, 55, 404, 50, 505, 90]
+  },
+  {
+    "key": "Raichu",
+    "name": "Raichu",
+    "form": null,
+    "number": 26,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "types": ["el\u00e9ctrico"],
+    "abilities": {
+      "first": "Electricidad est\u00e1tica",
+      "second": null,
+      "hidden": "Pararrayos"
+    },
+    "stats": [60, 90, 55, 90, 80, 1106]
+  },
+  {
+    "key": "Raichu de Alola",
+    "name": "Raichu de Alola",
+    "form": null,
+    "number": 26,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/26.png",
+    "types": ["el\u00e9ctrico", "ps\u00edquico"],
+    "abilities": { "first": "Cola surf", "second": null, "hidden": null },
+    "stats": [60, 85, 50, 95, 85, 110]
+  },
+  {
+    "key": "Sandshrew",
+    "name": "Sandshrew",
+    "form": null,
+    "number": 27,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "types": ["tierra"],
+    "abilities": {
+      "first": "Velo arena",
+      "second": null,
+      "hidden": "\u00cdmpetu arena"
+    },
+    "stats": [50, 75, 85, 20, 30, 40]
+  },
+  {
+    "key": "Sandshrew de Alola",
+    "name": "Sandshrew de Alola",
+    "form": null,
+    "number": 27,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
+    "types": ["hielo", "acero"],
+    "abilities": {
+      "first": "Manto n\u00edveo",
+      "second": null,
+      "hidden": "Quitanieves"
+    },
+    "stats": [50, 75, 90, 10, 35, 40]
+  },
+  {
+    "key": "Sandslash",
+    "name": "Sandslash",
+    "form": null,
+    "number": 28,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "types": ["tierra"],
+    "abilities": {
+      "first": "Velo arena",
+      "second": null,
+      "hidden": "\u00cdmpetu arena"
+    },
+    "stats": [75, 100, 110, 45, 55, 65]
+  },
+  {
+    "key": "Sandslash de Alola",
+    "name": "Sandslash de Alola",
+    "form": null,
+    "number": 28,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
+    "types": ["hielo", "acero"],
+    "abilities": {
+      "first": "Manto n\u00edveo",
+      "second": null,
+      "hidden": "Quitanieves"
+    },
+    "stats": [75, 100, 120, 25, 65, 65]
+  },
+  {
+    "key": "Nidoran\u2640",
+    "name": "Nidoran\u2640",
+    "form": null,
+    "number": 29,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Rivalidad",
+      "hidden": "Entusiasmo"
+    },
+    "stats": [55, 47, 52, 40, 40, 41]
+  },
+  {
+    "key": "Nidorina",
+    "name": "Nidorina",
+    "form": null,
+    "number": 30,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Rivalidad",
+      "hidden": "Entusiasmo"
+    },
+    "stats": [70, 62, 67, 55, 55, 56]
+  },
+  {
+    "key": "Nidoqueen",
+    "name": "Nidoqueen",
+    "form": null,
+    "number": 31,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
+    "types": ["veneno", "tierra"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Rivalidad",
+      "hidden": "Potencia bruta"
+    },
+    "stats": [90, 927, 87, 75, 85, 76]
+  },
+  {
+    "key": "Nidoran\u2642",
+    "name": "Nidoran\u2642",
+    "form": null,
+    "number": 32,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Rivalidad",
+      "hidden": "Entusiasmo"
+    },
+    "stats": [46, 57, 40, 40, 40, 50]
+  },
+  {
+    "key": "Nidorino",
+    "name": "Nidorino",
+    "form": null,
+    "number": 33,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Rivalidad",
+      "hidden": "Entusiasmo"
+    },
+    "stats": [61, 72, 57, 55, 55, 65]
+  },
+  {
+    "key": "Nidoking",
+    "name": "Nidoking",
+    "form": null,
+    "number": 34,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
+    "types": ["veneno", "tierra"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Rivalidad",
+      "hidden": "Potencia bruta"
+    },
+    "stats": [81, 1028, 77, 85, 75, 85]
+  },
+  {
+    "key": "Clefairy",
+    "name": "Clefairy",
+    "form": null,
+    "number": 35,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
+    "types": ["hada"],
+    "abilities": {
+      "first": "Gran encanto",
+      "second": "Muro m\u00e1gico",
+      "hidden": "Compiescolta"
+    },
+    "stats": [70, 45, 48, 60, 65, 35]
+  },
+  {
+    "key": "Clefable",
+    "name": "Clefable",
+    "form": null,
+    "number": 36,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
+    "types": ["hada"],
+    "abilities": {
+      "first": "Gran encanto",
+      "second": "Muro m\u00e1gico",
+      "hidden": "Ignorante"
+    },
+    "stats": [95, 70, 73, 959, 90, 60]
+  },
+  {
+    "key": "Vulpix",
+    "name": "Vulpix",
+    "form": null,
+    "number": 37,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Absorbe fuego",
+      "second": null,
+      "hidden": "Sequ\u00eda"
+    },
+    "stats": [38, 41, 40, 50, 65, 65]
+  },
+  {
+    "key": "Vulpix de Alola",
+    "name": "Vulpix de Alola",
+    "form": null,
+    "number": 37,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
+    "types": ["hielo"],
+    "abilities": {
+      "first": "Manto n\u00edveo",
+      "second": null,
+      "hidden": "Nevada"
+    },
+    "stats": [38, 41, 40, 50, 65, 65]
+  },
+  {
+    "key": "Ninetales",
+    "name": "Ninetales",
+    "form": null,
+    "number": 38,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Absorbe fuego",
+      "second": null,
+      "hidden": "Sequ\u00eda"
+    },
+    "stats": [73, 76, 75, 81, 100, 100]
+  },
+  {
+    "key": "Ninetales de Alola",
+    "name": "Ninetales de Alola",
+    "form": null,
+    "number": 38,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
+    "types": ["hielo", "hada"],
+    "abilities": {
+      "first": "Manto n\u00edveo",
+      "second": null,
+      "hidden": "Nevada"
+    },
+    "stats": [73, 67, 75, 81, 100, 109]
+  },
+  {
+    "key": "Jigglypuff",
+    "name": "Jigglypuff",
+    "form": null,
+    "number": 39,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
+    "types": ["normal", "hada"],
+    "abilities": {
+      "first": "Gran encanto",
+      "second": "Tenacidad",
+      "hidden": "Compiescolta"
+    },
+    "stats": [115, 45, 20, 45, 25, 20]
+  },
+  {
+    "key": "Wigglytuff",
+    "name": "Wigglytuff",
+    "form": null,
+    "number": 40,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
+    "types": ["normal", "hada"],
+    "abilities": {
+      "first": "Gran encanto",
+      "second": "Tenacidad",
+      "hidden": "Cacheo"
+    },
+    "stats": [140, 70, 45, 8510, 50, 45]
+  },
+  {
+    "key": "Zubat",
+    "name": "Zubat",
+    "form": null,
+    "number": 41,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+    "types": ["veneno", "volador"],
+    "abilities": {
+      "first": "Fuerza mental",
+      "second": null,
+      "hidden": "Allanamiento"
+    },
+    "stats": [40, 45, 35, 30, 40, 55]
+  },
+  {
+    "key": "Golbat",
+    "name": "Golbat",
+    "form": null,
+    "number": 42,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/42.png",
+    "types": ["veneno", "volador"],
+    "abilities": {
+      "first": "Fuerza mental",
+      "second": null,
+      "hidden": "Allanamiento"
+    },
+    "stats": [75, 80, 70, 65, 75, 90]
+  },
+  {
+    "key": "Oddish",
+    "name": "Oddish",
+    "form": null,
+    "number": 43,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Fuga" },
+    "stats": [45, 50, 55, 75, 65, 30]
+  },
+  {
+    "key": "Gloom",
+    "name": "Gloom",
+    "form": null,
+    "number": 44,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/44.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Hedor" },
+    "stats": [60, 65, 70, 85, 75, 40]
+  },
+  {
+    "key": "Vileplume",
+    "name": "Vileplume",
+    "form": null,
+    "number": 45,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/45.png",
+    "types": ["planta", "veneno"],
+    "abilities": {
+      "first": "Clorofila",
+      "second": null,
+      "hidden": "Efecto espora"
+    },
+    "stats": [75, 80, 85, 1106, 90, 50]
+  },
+  {
+    "key": "Paras",
+    "name": "Paras",
+    "form": null,
+    "number": 46,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "types": ["bicho", "planta"],
+    "abilities": {
+      "first": "Efecto espora",
+      "second": "Piel seca",
+      "hidden": "Humedad"
+    },
+    "stats": [35, 70, 55, 45, 55, 25]
+  },
+  {
+    "key": "Parasect",
+    "name": "Parasect",
+    "form": null,
+    "number": 47,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
+    "types": ["bicho", "planta"],
+    "abilities": {
+      "first": "Efecto espora",
+      "second": "Piel seca",
+      "hidden": "Humedad"
+    },
+    "stats": [60, 95, 80, 60, 80, 30]
+  },
+  {
+    "key": "Venonat",
+    "name": "Venonat",
+    "form": null,
+    "number": 48,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "types": ["bicho", "veneno"],
+    "abilities": {
+      "first": "Ojo compuesto",
+      "second": "Cromolente",
+      "hidden": "Fuga"
+    },
+    "stats": [60, 55, 50, 40, 55, 45]
+  },
+  {
+    "key": "Venomoth",
+    "name": "Venomoth",
+    "form": null,
+    "number": 49,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "types": ["bicho", "veneno"],
+    "abilities": {
+      "first": "Polvo escudo",
+      "second": "Cromolente",
+      "hidden": "Piel milagro"
+    },
+    "stats": [70, 65, 60, 90, 75, 90]
+  },
+  {
+    "key": "Diglett",
+    "name": "Diglett",
+    "form": null,
+    "number": 50,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "types": ["tierra"],
+    "abilities": {
+      "first": "Trampa arena",
+      "second": "Velo arena",
+      "hidden": "Poder arena"
+    },
+    "stats": [10, 55, 25, 35, 45, 95]
+  },
+  {
+    "key": "Diglett de Alola",
+    "name": "Diglett de Alola",
+    "form": null,
+    "number": 50,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
+    "types": ["tierra", "acero"],
+    "abilities": {
+      "first": "Velo arena",
+      "second": "Rizos rebeldes",
+      "hidden": "Poder arena"
+    },
+    "stats": [10, 55, 30, 35, 45, 90]
+  },
+  {
+    "key": "Dugtrio",
+    "name": "Dugtrio",
+    "form": null,
+    "number": 51,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "types": ["tierra"],
+    "abilities": {
+      "first": "Trampa arena",
+      "second": "Velo arena",
+      "hidden": "Poder arena"
+    },
+    "stats": [35, 10011, 50, 50, 70, 120]
+  },
+  {
+    "key": "Dugtrio de Alola",
+    "name": "Dugtrio de Alola",
+    "form": null,
+    "number": 51,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+    "types": ["tierra", "acero"],
+    "abilities": {
+      "first": "Velo arena",
+      "second": "Rizos rebeldes",
+      "hidden": "Poder arena"
+    },
+    "stats": [35, 100, 60, 50, 70, 110]
+  },
+  {
+    "key": "Meowth",
+    "name": "Meowth",
+    "form": null,
+    "number": 52,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Recogida",
+      "second": "Experto",
+      "hidden": "Nerviosismo"
+    },
+    "stats": [40, 45, 35, 40, 40, 90]
+  },
+  {
+    "key": "Meowth de Alola",
+    "name": "Meowth de Alola",
+    "form": null,
+    "number": 52,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "types": ["siniestro"],
+    "abilities": {
+      "first": "Recogida",
+      "second": "Experto",
+      "hidden": "Cobard\u00eda"
+    },
+    "stats": [40, 35, 35, 50, 40, 90]
+  },
+  {
+    "key": "Meowth de Galar",
+    "name": "Meowth de Galar",
+    "form": null,
+    "number": 52,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
+    "types": ["acero"],
+    "abilities": {
+      "first": "Recogida",
+      "second": "Garra dura",
+      "hidden": "Nerviosismo"
+    },
+    "stats": [50, 65, 55, 40, 40, 40]
+  },
+  {
+    "key": "Persian",
+    "name": "Persian",
+    "form": null,
+    "number": 53,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Flexibilidad",
+      "second": "Experto",
+      "hidden": "Nerviosismo"
+    },
+    "stats": [65, 70, 60, 65, 65, 115]
+  },
+  {
+    "key": "Persian de Alola",
+    "name": "Persian de Alola",
+    "form": null,
+    "number": 53,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
+    "types": ["siniestro"],
+    "abilities": {
+      "first": "Pelaje recio",
+      "second": "Experto",
+      "hidden": "Cobard\u00eda"
+    },
+    "stats": [65, 60, 60, 75, 65, 115]
+  },
+  {
+    "key": "Psyduck",
+    "name": "Psyduck",
+    "form": null,
+    "number": 54,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Humedad",
+      "second": "Aclimataci\u00f3n",
+      "hidden": "Nado r\u00e1pido"
+    },
+    "stats": [50, 52, 48, 65, 50, 55]
+  },
+  {
+    "key": "Golduck",
+    "name": "Golduck",
+    "form": null,
+    "number": 55,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Aclimataci\u00f3n",
+      "second": "Humedad",
+      "hidden": "Nado r\u00e1pido"
+    },
+    "stats": [80, 82, 78, 95, 80, 85]
+  },
+  {
+    "key": "Mankey",
+    "name": "Mankey",
+    "form": null,
+    "number": 56,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Esp\u00edritu vital",
+      "second": "Irascible",
+      "hidden": "Competitivo"
+    },
+    "stats": [40, 80, 35, 35, 45, 70]
+  },
+  {
+    "key": "Primeape",
+    "name": "Primeape",
+    "form": null,
+    "number": 57,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Esp\u00edritu vital",
+      "second": "Irascible",
+      "hidden": "Competitivo"
+    },
+    "stats": [65, 105, 60, 60, 70, 95]
+  },
+  {
+    "key": "Growlithe",
+    "name": "Growlithe",
+    "form": null,
+    "number": 58,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Absorbe fuego",
+      "hidden": "Justiciero"
+    },
+    "stats": [55, 70, 45, 70, 50, 60]
+  },
+  {
+    "key": "Growlithe de Hisui",
+    "name": "Growlithe de Hisui",
+    "form": null,
+    "number": 58,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "types": ["fuego", "roca"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Absorbe fuego",
+      "hidden": "Cabeza roca"
+    },
+    "stats": [60, 75, 45, 65, 50, 55]
+  },
+  {
+    "key": "Arcanine",
+    "name": "Arcanine",
+    "form": null,
+    "number": 59,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Absorbe fuego",
+      "hidden": "Justiciero"
+    },
+    "stats": [90, 110, 80, 100, 80, 95]
+  },
+  {
+    "key": "Arcanine de Hisui",
+    "name": "Arcanine de Hisui",
+    "form": null,
+    "number": 59,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "types": ["fuego", "roca"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Absorbe fuego",
+      "hidden": "Cabeza roca"
+    },
+    "stats": [95, 115, 80, 95, 80, 90]
+  },
+  {
+    "key": "Poliwag",
+    "name": "Poliwag",
+    "form": null,
+    "number": 60,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Absorbe agua",
+      "second": "Humedad",
+      "hidden": "Nado r\u00e1pido"
+    },
+    "stats": [40, 50, 40, 40, 40, 90]
+  },
+  {
+    "key": "Poliwhirl",
+    "name": "Poliwhirl",
+    "form": null,
+    "number": 61,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Absorbe agua",
+      "second": "Humedad",
+      "hidden": "Nado r\u00e1pido"
+    },
+    "stats": [65, 65, 65, 50, 50, 90]
+  },
+  {
+    "key": "Poliwrath",
+    "name": "Poliwrath",
+    "form": null,
+    "number": 62,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
+    "types": ["agua", "lucha"],
+    "abilities": {
+      "first": "Absorbe agua",
+      "second": "Humedad",
+      "hidden": "Nado r\u00e1pido"
+    },
+    "stats": [90, 959, 95, 70, 90, 70]
+  },
+  {
+    "key": "Abra",
+    "name": "Abra",
+    "form": null,
+    "number": 63,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Sincron\u00eda",
+      "second": "Fuerza mental",
+      "hidden": "Muro m\u00e1gico"
+    },
+    "stats": [25, 20, 15, 105, 55, 90]
+  },
+  {
+    "key": "Kadabra",
+    "name": "Kadabra",
+    "form": null,
+    "number": 64,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/64.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Sincron\u00eda",
+      "second": "Fuerza mental",
+      "hidden": "Muro m\u00e1gico"
+    },
+    "stats": [40, 35, 30, 120, 70, 105]
+  },
+  {
+    "key": "Alakazam",
+    "name": "Alakazam",
+    "form": null,
+    "number": 65,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Sincron\u00eda",
+      "second": "Fuerza mental",
+      "hidden": "Muro m\u00e1gico"
+    },
+    "stats": [55, 50, 45, 135, 959, 120]
+  },
+  {
+    "key": "Mega-Alakazam",
+    "name": "Mega-Alakazam",
+    "form": null,
+    "number": 65,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "types": ["ps\u00edquico"],
+    "abilities": { "first": "Calco", "second": null, "hidden": null },
+    "stats": [55, 50, 65, 175, 10512, 150]
+  },
+  {
+    "key": "Machop",
+    "name": "Machop",
+    "form": null,
+    "number": 66,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Agallas",
+      "second": "Indefenso",
+      "hidden": "Impasible"
+    },
+    "stats": [70, 80, 50, 35, 35, 35]
+  },
+  {
+    "key": "Machoke",
+    "name": "Machoke",
+    "form": null,
+    "number": 67,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Agallas",
+      "second": "Indefenso",
+      "hidden": "Impasible"
+    },
+    "stats": [80, 100, 70, 50, 60, 45]
+  },
+  {
+    "key": "Machamp",
+    "name": "Machamp",
+    "form": null,
+    "number": 68,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Agallas",
+      "second": "Indefenso",
+      "hidden": "Impasible"
+    },
+    "stats": [90, 130, 80, 65, 85, 55]
+  },
+  {
+    "key": "Bellsprout",
+    "name": "Bellsprout",
+    "form": null,
+    "number": 69,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Gula" },
+    "stats": [50, 75, 35, 70, 30, 40]
+  },
+  {
+    "key": "Weepinbell",
+    "name": "Weepinbell",
+    "form": null,
+    "number": 70,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Gula" },
+    "stats": [65, 90, 50, 85, 45, 55]
+  },
+  {
+    "key": "Victreebel",
+    "name": "Victreebel",
+    "form": null,
+    "number": 71,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
+    "types": ["planta", "veneno"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Gula" },
+    "stats": [80, 105, 65, 100, 7013, 70]
+  },
+  {
+    "key": "Tentacool",
+    "name": "Tentacool",
+    "form": null,
+    "number": 72,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
+    "types": ["agua", "veneno"],
+    "abilities": {
+      "first": "Cuerpo puro",
+      "second": "Viscosecreci\u00f3n",
+      "hidden": "Cura lluvia"
+    },
+    "stats": [40, 40, 35, 50, 100, 70]
+  },
+  {
+    "key": "Tentacruel",
+    "name": "Tentacruel",
+    "form": null,
+    "number": 73,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+    "types": ["agua", "veneno"],
+    "abilities": {
+      "first": "Cuerpo puro",
+      "second": "Viscosecreci\u00f3n",
+      "hidden": "Cura lluvia"
+    },
+    "stats": [80, 70, 65, 80, 120, 100]
+  },
+  {
+    "key": "Geodude",
+    "name": "Geodude",
+    "form": null,
+    "number": 74,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "types": ["roca", "tierra"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Robustez",
+      "hidden": "Velo arena"
+    },
+    "stats": [40, 80, 100, 30, 30, 20]
+  },
+  {
+    "key": "Geodude de Alola",
+    "name": "Geodude de Alola",
+    "form": null,
+    "number": 74,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
+    "types": ["roca", "el\u00e9ctrico"],
+    "abilities": {
+      "first": "Im\u00e1n",
+      "second": "Robustez",
+      "hidden": "Piel el\u00e9ctrica"
+    },
+    "stats": [40, 80, 100, 30, 30, 20]
+  },
+  {
+    "key": "Graveler",
+    "name": "Graveler",
+    "form": null,
+    "number": 75,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "types": ["roca", "tierra"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Robustez",
+      "hidden": "Velo arena"
+    },
+    "stats": [55, 95, 115, 45, 45, 35]
+  },
+  {
+    "key": "Graveler de Alola",
+    "name": "Graveler de Alola",
+    "form": null,
+    "number": 75,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
+    "types": ["roca", "el\u00e9ctrico"],
+    "abilities": {
+      "first": "Im\u00e1n",
+      "second": "Robustez",
+      "hidden": "Piel el\u00e9ctrica"
+    },
+    "stats": [55, 95, 115, 45, 45, 35]
+  },
+  {
+    "key": "Golem",
+    "name": "Golem",
+    "form": null,
+    "number": 76,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "types": ["roca", "tierra"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Robustez",
+      "hidden": "Velo arena"
+    },
+    "stats": [80, 12014, 130, 55, 65, 45]
+  },
+  {
+    "key": "Golem de Alola",
+    "name": "Golem de Alola",
+    "form": null,
+    "number": 76,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
+    "types": ["roca", "el\u00e9ctrico"],
+    "abilities": {
+      "first": "Im\u00e1n",
+      "second": "Robustez",
+      "hidden": "Piel el\u00e9ctrica"
+    },
+    "stats": [80, 120, 130, 55, 65, 45]
+  },
+  {
+    "key": "Ponyta",
+    "name": "Ponyta",
+    "form": null,
+    "number": 77,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Fuga",
+      "second": "Absorbe fuego",
+      "hidden": "Cuerpo llama"
+    },
+    "stats": [50, 85, 55, 65, 65, 90]
+  },
+  {
+    "key": "Ponyta de Galar",
+    "name": "Ponyta de Galar",
+    "form": null,
+    "number": 77,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Fuga",
+      "second": "Velo pastel",
+      "hidden": "Anticipaci\u00f3n"
+    },
+    "stats": [50, 85, 55, 65, 65, 90]
+  },
+  {
+    "key": "Rapidash",
+    "name": "Rapidash",
+    "form": null,
+    "number": 78,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Fuga",
+      "second": "Absorbe fuego",
+      "hidden": "Cuerpo llama"
+    },
+    "stats": [65, 100, 70, 80, 80, 105]
+  },
+  {
+    "key": "Rapidash de Galar",
+    "name": "Rapidash de Galar",
+    "form": null,
+    "number": 78,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
+    "types": ["ps\u00edquico", "hada"],
+    "abilities": {
+      "first": "Fuga",
+      "second": "Velo pastel",
+      "hidden": "Anticipaci\u00f3n"
+    },
+    "stats": [65, 100, 70, 80, 80, 105]
+  },
+  {
+    "key": "Slowpoke",
+    "name": "Slowpoke",
+    "form": null,
+    "number": 79,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "types": ["agua", "ps\u00edquico"],
+    "abilities": {
+      "first": "Despiste",
+      "second": "Ritmo propio",
+      "hidden": "Regeneraci\u00f3n"
+    },
+    "stats": [90, 65, 65, 40, 40, 15]
+  },
+  {
+    "key": "Slowpoke de Galar",
+    "name": "Slowpoke de Galar",
+    "form": null,
+    "number": 79,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Gula",
+      "second": "Ritmo propio",
+      "hidden": "Regeneraci\u00f3n"
+    },
+    "stats": [90, 65, 65, 40, 40, 15]
+  },
+  {
+    "key": "Slowbro",
+    "name": "Slowbro",
+    "form": null,
+    "number": 80,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "types": ["agua", "ps\u00edquico"],
+    "abilities": {
+      "first": "Despiste",
+      "second": "Ritmo propio",
+      "hidden": "Regeneraci\u00f3n"
+    },
+    "stats": [95, 75, 110, 100, 80, 30]
+  },
+  {
+    "key": "Mega-Slowbro",
+    "name": "Mega-Slowbro",
+    "form": null,
+    "number": 80,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "types": ["agua", "ps\u00edquico"],
+    "abilities": { "first": "Caparaz\u00f3n", "second": null, "hidden": null },
+    "stats": [95, 75, 180, 130, 80, 30]
+  },
+  {
+    "key": "Slowbro de Galar",
+    "name": "Slowbro de Galar",
+    "form": null,
+    "number": 80,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
+    "types": ["veneno", "ps\u00edquico"],
+    "abilities": {
+      "first": "Mano r\u00e1pida",
+      "second": "Ritmo propio",
+      "hidden": "Regeneraci\u00f3n"
+    },
+    "stats": [95, 100, 95, 100, 70, 30]
+  },
+  {
+    "key": "Magnemite",
+    "name": "Magnemite",
+    "form": null,
+    "number": 81,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
+    "types": ["el\u00e9ctrico", "acero"],
+    "abilities": {
+      "first": "Im\u00e1n",
+      "second": "Robustez",
+      "hidden": "C\u00e1lculo final"
+    },
+    "stats": [25, 35, 70, 95, 55, 45]
+  },
+  {
+    "key": "Magneton",
+    "name": "Magneton",
+    "form": null,
+    "number": 82,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
+    "types": ["el\u00e9ctrico", "acero"],
+    "abilities": {
+      "first": "Im\u00e1n",
+      "second": "Robustez",
+      "hidden": "C\u00e1lculo final"
+    },
+    "stats": [50, 60, 95, 120, 70, 70]
+  },
+  {
+    "key": "Farfetch'd",
+    "name": "Farfetch'd",
+    "form": null,
+    "number": 83,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "types": ["normal", "volador"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": "Fuerza mental",
+      "hidden": "Competitivo"
+    },
+    "stats": [52, 9015, 55, 58, 62, 60]
+  },
+  {
+    "key": "Farfetch'd de Galar",
+    "name": "Farfetch'd de Galar",
+    "form": null,
+    "number": 83,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Impasible",
+      "second": null,
+      "hidden": "Intr\u00e9pido"
+    },
+    "stats": [52, 95, 55, 58, 62, 55]
+  },
+  {
+    "key": "Doduo",
+    "name": "Doduo",
+    "form": null,
+    "number": 84,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "types": ["normal", "volador"],
+    "abilities": { "first": "Fuga", "second": "Madrugar", "hidden": "Tumbos" },
+    "stats": [35, 85, 45, 35, 35, 75]
+  },
+  {
+    "key": "Dodrio",
+    "name": "Dodrio",
+    "form": null,
+    "number": 85,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/85.png",
+    "types": ["normal", "volador"],
+    "abilities": { "first": "Fuga", "second": "Madrugar", "hidden": "Tumbos" },
+    "stats": [60, 110, 70, 60, 60, 11016]
+  },
+  {
+    "key": "Seel",
+    "name": "Seel",
+    "form": null,
+    "number": 86,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Sebo",
+      "second": "Hidrataci\u00f3n",
+      "hidden": "G\u00e9lido"
+    },
+    "stats": [65, 45, 55, 45, 70, 45]
+  },
+  {
+    "key": "Dewgong",
+    "name": "Dewgong",
+    "form": null,
+    "number": 87,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
+    "types": ["agua", "hielo"],
+    "abilities": {
+      "first": "Sebo",
+      "second": "Hidrataci\u00f3n",
+      "hidden": "G\u00e9lido"
+    },
+    "stats": [90, 70, 80, 70, 95, 70]
+  },
+  {
+    "key": "Grimer",
+    "name": "Grimer",
+    "form": null,
+    "number": 88,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Hedor",
+      "second": "Viscosidad",
+      "hidden": "Toque t\u00f3xico"
+    },
+    "stats": [80, 80, 50, 40, 50, 25]
+  },
+  {
+    "key": "Grimer de Alola",
+    "name": "Grimer de Alola",
+    "form": null,
+    "number": 88,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
+    "types": ["veneno", "siniestro"],
+    "abilities": {
+      "first": "Toque t\u00f3xico",
+      "second": "Gula",
+      "hidden": "Reacci\u00f3n qu\u00edmica"
+    },
+    "stats": [80, 80, 50, 40, 50, 25]
+  },
+  {
+    "key": "Muk",
+    "name": "Muk",
+    "form": null,
+    "number": 89,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Hedor",
+      "second": "Viscosidad",
+      "hidden": "Toque t\u00f3xico"
+    },
+    "stats": [105, 105, 75, 65, 100, 50]
+  },
+  {
+    "key": "Muk de Alola",
+    "name": "Muk de Alola",
+    "form": null,
+    "number": 89,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
+    "types": ["veneno", "siniestro"],
+    "abilities": {
+      "first": "Toque t\u00f3xico",
+      "second": "Gula",
+      "hidden": "Reacci\u00f3n qu\u00edmica"
+    },
+    "stats": [105, 105, 75, 65, 100, 50]
+  },
+  {
+    "key": "Shellder",
+    "name": "Shellder",
+    "form": null,
+    "number": 90,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Caparaz\u00f3n",
+      "second": "Encadenado",
+      "hidden": "Funda"
+    },
+    "stats": [30, 65, 100, 45, 25, 40]
+  },
+  {
+    "key": "Cloyster",
+    "name": "Cloyster",
+    "form": null,
+    "number": 91,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
+    "types": ["agua", "hielo"],
+    "abilities": {
+      "first": "Caparaz\u00f3n",
+      "second": "Encadenado",
+      "hidden": "Funda"
+    },
+    "stats": [50, 95, 180, 85, 45, 70]
+  },
+  {
+    "key": "Gastly",
+    "name": "Gastly",
+    "form": null,
+    "number": 92,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "types": ["fantasma", "veneno"],
+    "abilities": { "first": "Levitaci\u00f3n", "second": null, "hidden": null },
+    "stats": [30, 35, 30, 100, 35, 80]
+  },
+  {
+    "key": "Haunter",
+    "name": "Haunter",
+    "form": null,
+    "number": 93,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
+    "types": ["fantasma", "veneno"],
+    "abilities": { "first": "Levitaci\u00f3n", "second": null, "hidden": null },
+    "stats": [45, 50, 45, 115, 55, 95]
+  },
+  {
+    "key": "Gengar",
+    "name": "Gengar",
+    "form": null,
+    "number": 94,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "types": ["fantasma", "veneno"],
+    "abilities": { "first": "Cuerpo maldito", "second": null, "hidden": null },
+    "stats": [60, 65, 60, 130, 75, 110]
+  },
+  {
+    "key": "Mega-Gengar",
+    "name": "Mega-Gengar",
+    "form": null,
+    "number": 94,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
+    "types": ["fantasma", "veneno"],
+    "abilities": { "first": "Sombra trampa", "second": null, "hidden": null },
+    "stats": [60, 65, 80, 170, 95, 130]
+  },
+  {
+    "key": "Onix",
+    "name": "Onix",
+    "form": null,
+    "number": 95,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+    "types": ["roca", "tierra"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Robustez",
+      "hidden": "Armadura fr\u00e1gil"
+    },
+    "stats": [35, 45, 160, 30, 45, 70]
+  },
+  {
+    "key": "Drowzee",
+    "name": "Drowzee",
+    "form": null,
+    "number": 96,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Insomnio",
+      "second": "Alerta",
+      "hidden": "Fuerza mental"
+    },
+    "stats": [60, 48, 45, 43, 90, 42]
+  },
+  {
+    "key": "Hypno",
+    "name": "Hypno",
+    "form": null,
+    "number": 97,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/97.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Insomnio",
+      "second": "Alerta",
+      "hidden": "Fuerza mental"
+    },
+    "stats": [85, 73, 70, 73, 115, 67]
+  },
+  {
+    "key": "Krabby",
+    "name": "Krabby",
+    "form": null,
+    "number": 98,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Caparaz\u00f3n",
+      "second": "Corte fuerte",
+      "hidden": "Potencia bruta"
+    },
+    "stats": [30, 105, 90, 25, 25, 50]
+  },
+  {
+    "key": "Kingler",
+    "name": "Kingler",
+    "form": null,
+    "number": 99,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Caparaz\u00f3n",
+      "second": "Corte fuerte",
+      "hidden": "Potencia bruta"
+    },
+    "stats": [55, 130, 115, 50, 50, 75]
+  },
+  {
+    "key": "Voltorb",
+    "name": "Voltorb",
+    "form": null,
+    "number": 100,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "types": ["el\u00e9ctrico"],
+    "abilities": {
+      "first": "Insonorizar",
+      "second": "Electricidad est\u00e1tica",
+      "hidden": "Detonaci\u00f3n"
+    },
+    "stats": [40, 30, 50, 55, 55, 100]
+  },
+  {
+    "key": "Voltorb de Hisui",
+    "name": "Voltorb de Hisui",
+    "form": null,
+    "number": 100,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
+    "types": ["el\u00e9ctrico", "planta"],
+    "abilities": {
+      "first": "Insonorizar",
+      "second": "Electricidad est\u00e1tica",
+      "hidden": "Detonaci\u00f3n"
+    },
+    "stats": [40, 30, 50, 55, 55, 100]
+  },
+  {
+    "key": "Electrode",
+    "name": "Electrode",
+    "form": null,
+    "number": 101,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "types": ["el\u00e9ctrico"],
+    "abilities": {
+      "first": "Insonorizar",
+      "second": "Electricidad est\u00e1tica",
+      "hidden": "Detonaci\u00f3n"
+    },
+    "stats": [60, 50, 70, 80, 80, 15017]
+  },
+  {
+    "key": "Electrode de Hisui",
+    "name": "Electrode de Hisui",
+    "form": null,
+    "number": 101,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
+    "types": ["el\u00e9ctrico", "planta"],
+    "abilities": {
+      "first": "Insonorizar",
+      "second": "Electricidad est\u00e1tica",
+      "hidden": "Detonaci\u00f3n"
+    },
+    "stats": [60, 50, 70, 80, 80, 150]
+  },
+  {
+    "key": "Exeggcute",
+    "name": "Exeggcute",
+    "form": null,
+    "number": 102,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
+    "types": ["planta", "ps\u00edquico"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Cosecha" },
+    "stats": [60, 40, 80, 60, 45, 40]
+  },
+  {
+    "key": "Exeggutor",
+    "name": "Exeggutor",
+    "form": null,
+    "number": 103,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "types": ["planta", "ps\u00edquico"],
+    "abilities": { "first": "Clorofila", "second": null, "hidden": "Cosecha" },
+    "stats": [95, 95, 85, 125, 7515, 55]
+  },
+  {
+    "key": "Exeggutor de Alola",
+    "name": "Exeggutor de Alola",
+    "form": null,
+    "number": 103,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
+    "types": ["planta", "drag\u00f3n"],
+    "abilities": { "first": "Cacheo", "second": null, "hidden": "Cosecha" },
+    "stats": [95, 105, 85, 125, 75, 45]
+  },
+  {
+    "key": "Cubone",
+    "name": "Cubone",
+    "form": null,
+    "number": 104,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
+    "types": ["tierra"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Pararrayos",
+      "hidden": "Armadura batalla"
+    },
+    "stats": [50, 50, 95, 40, 50, 35]
+  },
+  {
+    "key": "Marowak",
+    "name": "Marowak",
+    "form": null,
+    "number": 105,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "types": ["tierra"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Pararrayos",
+      "hidden": "Armadura batalla"
+    },
+    "stats": [60, 80, 110, 50, 80, 45]
+  },
+  {
+    "key": "Marowak de Alola",
+    "name": "Marowak de Alola",
+    "form": null,
+    "number": 105,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
+    "types": ["fuego", "fantasma"],
+    "abilities": {
+      "first": "Cuerpo maldito",
+      "second": "Pararrayos",
+      "hidden": "Cabeza roca"
+    },
+    "stats": [60, 80, 110, 50, 80, 45]
+  },
+  {
+    "key": "Hitmonlee",
+    "name": "Hitmonlee",
+    "form": null,
+    "number": 106,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Flexibilidad",
+      "second": "Audaz",
+      "hidden": "Liviano"
+    },
+    "stats": [50, 120, 53, 35, 110, 87]
+  },
+  {
+    "key": "Hitmonchan",
+    "name": "Hitmonchan",
+    "form": null,
+    "number": 107,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Vista lince",
+      "second": "Pu\u00f1o f\u00e9rreo",
+      "hidden": "Fuerza mental"
+    },
+    "stats": [50, 105, 79, 35, 110, 76]
+  },
+  {
+    "key": "Lickitung",
+    "name": "Lickitung",
+    "form": null,
+    "number": 108,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Despiste",
+      "second": "Ritmo propio",
+      "hidden": "Aclimataci\u00f3n"
+    },
+    "stats": [90, 55, 75, 60, 75, 30]
+  },
+  {
+    "key": "Koffing",
+    "name": "Koffing",
+    "form": null,
+    "number": 109,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Levitaci\u00f3n",
+      "second": "Gas reactivo",
+      "hidden": "Hedor"
+    },
+    "stats": [40, 65, 95, 60, 45, 35]
+  },
+  {
+    "key": "Weezing",
+    "name": "Weezing",
+    "form": null,
+    "number": 110,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "types": ["veneno"],
+    "abilities": {
+      "first": "Levitaci\u00f3n",
+      "second": "Gas reactivo",
+      "hidden": "Hedor"
+    },
+    "stats": [65, 90, 120, 85, 70, 60]
+  },
+  {
+    "key": "Weezing de Galar",
+    "name": "Weezing de Galar",
+    "form": null,
+    "number": 110,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
+    "types": ["veneno", "hada"],
+    "abilities": {
+      "first": "Levitaci\u00f3n",
+      "second": "Gas reactivo",
+      "hidden": "Nebulog\u00e9nesis"
+    },
+    "stats": [65, 90, 120, 85, 70, 60]
+  },
+  {
+    "key": "Rhyhorn",
+    "name": "Rhyhorn",
+    "form": null,
+    "number": 111,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png",
+    "types": ["tierra", "roca"],
+    "abilities": {
+      "first": "Pararrayos",
+      "second": "Cabeza roca",
+      "hidden": "Audaz"
+    },
+    "stats": [80, 85, 95, 30, 30, 25]
+  },
+  {
+    "key": "Rhydon",
+    "name": "Rhydon",
+    "form": null,
+    "number": 112,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+    "types": ["tierra", "roca"],
+    "abilities": {
+      "first": "Pararrayos",
+      "second": "Cabeza roca",
+      "hidden": "Audaz"
+    },
+    "stats": [105, 130, 120, 45, 45, 40]
+  },
+  {
+    "key": "Chansey",
+    "name": "Chansey",
+    "form": null,
+    "number": 113,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Cura natural",
+      "second": "Dicha",
+      "hidden": "Alma cura"
+    },
+    "stats": [250, 5, 5, 35, 105, 50]
+  },
+  {
+    "key": "Tangela",
+    "name": "Tangela",
+    "form": null,
+    "number": 114,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
+    "types": ["planta"],
+    "abilities": {
+      "first": "Clorofila",
+      "second": "Defensa hoja",
+      "hidden": "Regeneraci\u00f3n"
+    },
+    "stats": [65, 55, 115, 100, 40, 60]
+  },
+  {
+    "key": "Kangaskhan",
+    "name": "Kangaskhan",
+    "form": null,
+    "number": 115,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Madrugar",
+      "second": "Intr\u00e9pido",
+      "hidden": "Fuerza mental"
+    },
+    "stats": [105, 95, 80, 40, 80, 90]
+  },
+  {
+    "key": "Mega-Kangaskhan",
+    "name": "Mega-Kangaskhan",
+    "form": null,
+    "number": 115,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
+    "types": ["normal"],
+    "abilities": { "first": "Amor filial", "second": null, "hidden": null },
+    "stats": [105, 125, 100, 60, 100, 100]
+  },
+  {
+    "key": "Horsea",
+    "name": "Horsea",
+    "form": null,
+    "number": 116,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Nado r\u00e1pido",
+      "second": "Francotirador",
+      "hidden": "Humedad"
+    },
+    "stats": [30, 40, 70, 70, 25, 60]
+  },
+  {
+    "key": "Seadra",
+    "name": "Seadra",
+    "form": null,
+    "number": 117,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Punto t\u00f3xico",
+      "second": "Francotirador",
+      "hidden": "Humedad"
+    },
+    "stats": [55, 65, 95, 95, 45, 85]
+  },
+  {
+    "key": "Goldeen",
+    "name": "Goldeen",
+    "form": null,
+    "number": 118,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/118.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Nado r\u00e1pido",
+      "second": "Velo agua",
+      "hidden": "Pararrayos"
+    },
+    "stats": [45, 67, 60, 35, 50, 63]
+  },
+  {
+    "key": "Seaking",
+    "name": "Seaking",
+    "form": null,
+    "number": 119,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/119.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Nado r\u00e1pido",
+      "second": "Velo agua",
+      "hidden": "Pararrayos"
+    },
+    "stats": [80, 92, 65, 65, 80, 68]
+  },
+  {
+    "key": "Staryu",
+    "name": "Staryu",
+    "form": null,
+    "number": 120,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Cura natural",
+      "second": "Iluminaci\u00f3n",
+      "hidden": "C\u00e1lculo final"
+    },
+    "stats": [30, 45, 55, 70, 55, 85]
+  },
+  {
+    "key": "Starmie",
+    "name": "Starmie",
+    "form": null,
+    "number": 121,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+    "types": ["agua", "ps\u00edquico"],
+    "abilities": {
+      "first": "Cura natural",
+      "second": "Iluminaci\u00f3n",
+      "hidden": "C\u00e1lculo final"
+    },
+    "stats": [60, 75, 85, 100, 85, 115]
+  },
+  {
+    "key": "Mr. Mime",
+    "name": "Mr. Mime",
+    "form": null,
+    "number": 122,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "types": ["ps\u00edquico", "hada"],
+    "abilities": {
+      "first": "Insonorizar",
+      "second": "Filtro",
+      "hidden": "Experto"
+    },
+    "stats": [40, 45, 65, 100, 120, 90]
+  },
+  {
+    "key": "Mr. Mime de Galar",
+    "name": "Mr. Mime de Galar",
+    "form": null,
+    "number": 122,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
+    "types": ["hielo", "ps\u00edquico"],
+    "abilities": {
+      "first": "Esp\u00edritu vital",
+      "second": "Antibarrera",
+      "hidden": "G\u00e9lido"
+    },
+    "stats": [50, 65, 65, 90, 90, 100]
+  },
+  {
+    "key": "Scyther",
+    "name": "Scyther",
+    "form": null,
+    "number": 123,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "types": ["bicho", "volador"],
+    "abilities": {
+      "first": "Enjambre",
+      "second": "Experto",
+      "hidden": "Impasible"
+    },
+    "stats": [70, 110, 80, 55, 80, 105]
+  },
+  {
+    "key": "Jynx",
+    "name": "Jynx",
+    "form": null,
+    "number": 124,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
+    "types": ["hielo", "ps\u00edquico"],
+    "abilities": {
+      "first": "Despiste",
+      "second": "Alerta",
+      "hidden": "Piel seca"
+    },
+    "stats": [65, 50, 35, 115, 95, 95]
+  },
+  {
+    "key": "Electabuzz",
+    "name": "Electabuzz",
+    "form": null,
+    "number": 125,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "types": ["el\u00e9ctrico"],
+    "abilities": {
+      "first": "Electricidad est\u00e1tica",
+      "second": null,
+      "hidden": "Esp\u00edritu vital"
+    },
+    "stats": [65, 83, 57, 95, 85, 105]
+  },
+  {
+    "key": "Magmar",
+    "name": "Magmar",
+    "form": null,
+    "number": 126,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Cuerpo llama",
+      "second": null,
+      "hidden": "Esp\u00edritu vital"
+    },
+    "stats": [65, 95, 57, 100, 85, 93]
+  },
+  {
+    "key": "Pinsir",
+    "name": "Pinsir",
+    "form": null,
+    "number": 127,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "types": ["bicho"],
+    "abilities": {
+      "first": "Corte fuerte",
+      "second": "Rompemoldes",
+      "hidden": "Autoestima"
+    },
+    "stats": [65, 125, 100, 55, 70, 85]
+  },
+  {
+    "key": "Mega-Pinsir",
+    "name": "Mega-Pinsir",
+    "form": null,
+    "number": 127,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
+    "types": ["bicho", "volador"],
+    "abilities": { "first": "Piel celeste", "second": null, "hidden": null },
+    "stats": [65, 155, 120, 65, 90, 105]
+  },
+  {
+    "key": "Tauros",
+    "name": "Tauros",
+    "form": null,
+    "number": 128,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Irascible",
+      "hidden": "Potencia bruta"
+    },
+    "stats": [75, 100, 95, 40, 70, 110]
+  },
+  {
+    "key": "Tauros de Paldea (variante combatiente)",
+    "name": "Tauros de Paldea",
+    "form": "variedad combatiente",
+    "number": 128,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "types": ["lucha"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Irascible",
+      "hidden": "Rumia"
+    },
+    "stats": [75, 110, 105, 30, 70, 100]
+  },
+  {
+    "key": "Tauros de Paldea (variante ardiente)",
+    "name": "Tauros de Paldea",
+    "form": "variedad ardiente",
+    "number": 128,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "types": ["lucha", "fuego"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Irascible",
+      "hidden": "Rumia"
+    },
+    "stats": [75, 110, 105, 30, 70, 100]
+  },
+  {
+    "key": "Tauros de Paldea (variante acu\u00e1tica)",
+    "name": "Tauros de Paldea",
+    "form": "variedad acu\u00e1tica",
+    "number": 128,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
+    "types": ["lucha", "agua"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": "Irascible",
+      "hidden": "Rumia"
+    },
+    "stats": [75, 110, 105, 30, 70, 100]
+  },
+  {
+    "key": "Magikarp",
+    "name": "Magikarp",
+    "form": null,
+    "number": 129,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Nado r\u00e1pido",
+      "second": null,
+      "hidden": "Cobard\u00eda"
+    },
+    "stats": [20, 10, 55, 15, 20, 80]
+  },
+  {
+    "key": "Gyarados",
+    "name": "Gyarados",
+    "form": null,
+    "number": 130,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "types": ["agua", "volador"],
+    "abilities": {
+      "first": "Intimidaci\u00f3n",
+      "second": null,
+      "hidden": "Autoestima"
+    },
+    "stats": [95, 125, 79, 60, 100, 81]
+  },
+  {
+    "key": "Mega-Gyarados",
+    "name": "Mega-Gyarados",
+    "form": null,
+    "number": 130,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/130.png",
+    "types": ["agua", "siniestro"],
+    "abilities": { "first": "Rompemoldes", "second": null, "hidden": null },
+    "stats": [95, 155, 109, 70, 130, 81]
+  },
+  {
+    "key": "Lapras",
+    "name": "Lapras",
+    "form": null,
+    "number": 131,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "types": ["agua", "hielo"],
+    "abilities": {
+      "first": "Absorbe agua",
+      "second": "Caparaz\u00f3n",
+      "hidden": "Hidrataci\u00f3n"
+    },
+    "stats": [130, 85, 80, 85, 95, 60]
+  },
+  {
+    "key": "Ditto",
+    "name": "Ditto",
+    "form": null,
+    "number": 132,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Flexibilidad",
+      "second": null,
+      "hidden": "Impostor"
+    },
+    "stats": [48, 48, 48, 48, 48, 48]
+  },
+  {
+    "key": "Eevee",
+    "name": "Eevee",
+    "form": null,
+    "number": 133,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Fuga",
+      "second": "Adaptable",
+      "hidden": "Anticipaci\u00f3n"
+    },
+    "stats": [55, 55, 50, 45, 65, 55]
+  },
+  {
+    "key": "Vaporeon",
+    "name": "Vaporeon",
+    "form": null,
+    "number": 134,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "types": ["agua"],
+    "abilities": {
+      "first": "Absorbe agua",
+      "second": null,
+      "hidden": "Hidrataci\u00f3n"
+    },
+    "stats": [130, 65, 60, 110, 95, 65]
+  },
+  {
+    "key": "Jolteon",
+    "name": "Jolteon",
+    "form": null,
+    "number": 135,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
+    "types": ["el\u00e9ctrico"],
+    "abilities": {
+      "first": "Absorbe electricidad",
+      "second": null,
+      "hidden": "Pies r\u00e1pidos"
+    },
+    "stats": [65, 65, 60, 110, 95, 130]
+  },
+  {
+    "key": "Flareon",
+    "name": "Flareon",
+    "form": null,
+    "number": 136,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
+    "types": ["fuego"],
+    "abilities": {
+      "first": "Absorbe fuego",
+      "second": null,
+      "hidden": "Agallas"
+    },
+    "stats": [65, 130, 60, 95, 110, 65]
+  },
+  {
+    "key": "Porygon",
+    "name": "Porygon",
+    "form": null,
+    "number": 137,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
+    "types": ["normal"],
+    "abilities": {
+      "first": "Calco",
+      "second": "Descarga",
+      "hidden": "C\u00e1lculo final"
+    },
+    "stats": [65, 60, 70, 85, 75, 40]
+  },
+  {
+    "key": "Omanyte",
+    "name": "Omanyte",
+    "form": null,
+    "number": 138,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
+    "types": ["roca", "agua"],
+    "abilities": {
+      "first": "Nado r\u00e1pido",
+      "second": "Caparaz\u00f3n",
+      "hidden": "Armadura fr\u00e1gil"
+    },
+    "stats": [35, 40, 100, 90, 55, 35]
+  },
+  {
+    "key": "Omastar",
+    "name": "Omastar",
+    "form": null,
+    "number": 139,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
+    "types": ["roca", "agua"],
+    "abilities": {
+      "first": "Nado r\u00e1pido",
+      "second": "Caparaz\u00f3n",
+      "hidden": "Armadura fr\u00e1gil"
+    },
+    "stats": [70, 60, 125, 115, 70, 55]
+  },
+  {
+    "key": "Kabuto",
+    "name": "Kabuto",
+    "form": null,
+    "number": 140,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+    "types": ["roca", "agua"],
+    "abilities": {
+      "first": "Armadura batalla",
+      "second": "Nado r\u00e1pido",
+      "hidden": "Armadura fr\u00e1gil"
+    },
+    "stats": [30, 80, 90, 55, 45, 55]
+  },
+  {
+    "key": "Kabutops",
+    "name": "Kabutops",
+    "form": null,
+    "number": 141,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
+    "types": ["roca", "agua"],
+    "abilities": {
+      "first": "Armadura batalla",
+      "second": "Nado r\u00e1pido",
+      "hidden": "Armadura fr\u00e1gil"
+    },
+    "stats": [60, 115, 105, 65, 70, 80]
+  },
+  {
+    "key": "Aerodactyl",
+    "name": "Aerodactyl",
+    "form": null,
+    "number": 142,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "types": ["roca", "volador"],
+    "abilities": {
+      "first": "Cabeza roca",
+      "second": "Presi\u00f3n",
+      "hidden": "Nerviosismo"
+    },
+    "stats": [80, 105, 65, 60, 75, 130]
+  },
+  {
+    "key": "Mega-Aerodactyl",
+    "name": "Mega-Aerodactyl",
+    "form": null,
+    "number": 142,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
+    "types": ["roca", "volador"],
+    "abilities": { "first": "Garra dura", "second": null, "hidden": null },
+    "stats": [80, 135, 85, 70, 95, 150]
+  },
+  {
+    "key": "Snorlax",
+    "name": "Snorlax",
+    "form": null,
+    "number": 143,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "types": ["normal"],
+    "abilities": { "first": "Sebo", "second": "Inmunidad", "hidden": "Gula" },
+    "stats": [160, 110, 65, 65, 110, 30]
+  },
+  {
+    "key": "Articuno",
+    "name": "Articuno",
+    "form": null,
+    "number": 144,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "types": ["hielo", "volador"],
+    "abilities": {
+      "first": "Presi\u00f3n",
+      "second": null,
+      "hidden": "Manto n\u00edveo"
+    },
+    "stats": [90, 85, 100, 95, 125, 85]
+  },
+  {
+    "key": "Articuno de Galar",
+    "name": "Articuno de Galar",
+    "form": null,
+    "number": 144,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
+    "types": ["ps\u00edquico", "volador"],
+    "abilities": { "first": "Tenacidad", "second": null, "hidden": null },
+    "stats": [90, 85, 85, 125, 100, 95]
+  },
+  {
+    "key": "Zapdos",
+    "name": "Zapdos",
+    "form": null,
+    "number": 145,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "types": ["el\u00e9ctrico", "volador"],
+    "abilities": {
+      "first": "Presi\u00f3n",
+      "second": null,
+      "hidden": "Electricidad est\u00e1tica"
+    },
+    "stats": [90, 90, 85, 125, 90, 100]
+  },
+  {
+    "key": "Zapdos de Galar",
+    "name": "Zapdos de Galar",
+    "form": null,
+    "number": 145,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
+    "types": ["lucha", "volador"],
+    "abilities": { "first": "Competitivo", "second": null, "hidden": null },
+    "stats": [90, 125, 90, 85, 90, 100]
+  },
+  {
+    "key": "Moltres",
+    "name": "Moltres",
+    "form": null,
+    "number": 146,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "types": ["fuego", "volador"],
+    "abilities": {
+      "first": "Presi\u00f3n",
+      "second": null,
+      "hidden": "Cuerpo llama"
+    },
+    "stats": [90, 100, 90, 125, 85, 90]
+  },
+  {
+    "key": "Moltres de Galar",
+    "name": "Moltres de Galar",
+    "form": null,
+    "number": 146,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
+    "types": ["siniestro", "volador"],
+    "abilities": { "first": "C\u00f3lera", "second": null, "hidden": null },
+    "stats": [90, 85, 90, 100, 125, 90]
+  },
+  {
+    "key": "Dratini",
+    "name": "Dratini",
+    "form": null,
+    "number": 147,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
+    "types": ["drag\u00f3n"],
+    "abilities": {
+      "first": "Mudar",
+      "second": null,
+      "hidden": "Escama especial"
+    },
+    "stats": [41, 64, 45, 50, 50, 50]
+  },
+  {
+    "key": "Dragonair",
+    "name": "Dragonair",
+    "form": null,
+    "number": 148,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
+    "types": ["drag\u00f3n"],
+    "abilities": {
+      "first": "Mudar",
+      "second": null,
+      "hidden": "Escama especial"
+    },
+    "stats": [61, 84, 65, 70, 70, 70]
+  },
+  {
+    "key": "Dragonite",
+    "name": "Dragonite",
+    "form": null,
+    "number": 149,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
+    "types": ["drag\u00f3n", "volador"],
+    "abilities": {
+      "first": "Fuerza mental",
+      "second": null,
+      "hidden": "Multiescamas"
+    },
+    "stats": [91, 134, 95, 100, 100, 80]
+  },
+  {
+    "key": "Mewtwo",
+    "name": "Mewtwo",
+    "form": null,
+    "number": 150,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "types": ["ps\u00edquico"],
+    "abilities": {
+      "first": "Presi\u00f3n",
+      "second": null,
+      "hidden": "Nerviosismo"
+    },
+    "stats": [106, 110, 90, 154, 90, 130]
+  },
+  {
+    "key": "Mega-Mewtwo X",
+    "name": "Mega-Mewtwo X",
+    "form": null,
+    "number": 150,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "types": ["ps\u00edquico", "lucha"],
+    "abilities": { "first": "Impasible", "second": null, "hidden": null },
+    "stats": [106, 190, 100, 154, 100, 130]
+  },
+  {
+    "key": "Mega-Mewtwo Y",
+    "name": "Mega-Mewtwo Y",
+    "form": null,
+    "number": 150,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "types": ["ps\u00edquico"],
+    "abilities": { "first": "Insomnio", "second": null, "hidden": null },
+    "stats": [106, 150, 70, 194, 120, 140]
+  },
+  {
+    "key": "Mew",
+    "name": "Mew",
+    "form": null,
+    "number": 151,
+    "gen": "Primera",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
+    "types": ["ps\u00edquico"],
+    "abilities": { "first": "Sincron\u00eda", "second": null, "hidden": null },
+    "stats": [100, 100, 100, 100, 100, 100]
+  }
+]

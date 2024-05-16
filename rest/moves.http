@@ -1,0 +1,43 @@
+# Obtener todos los Movimientos
+GET http://localhost:3000/moves HTTP/1.1
+
+### Obtener Movimiento
+GET http://localhost:3000/moves/6643ca35cf1e770ac6df53a7 HTTP/1.1
+
+### Eliminar Movimiento
+DELETE http://localhost:3000/moves/6643ed8bc9dc01250c7dce55 HTTP/1.1
+
+### Crear Movimiento
+POST http://localhost:3000/moves HTTP/1.1
+content-type: application/json
+
+{
+  "number": 1,
+  "name": {
+    "spanish": "nuevo",
+    "english": "push"
+  },
+  "type": "fuego",
+  "class": "físico",
+  "generation": "II",
+  "power": 80,
+  "accuracy": 20,
+  "pp": 5,
+  "description": "dsakjddsadsadsasa"
+}
+
+### Actualizar Movimiento
+PATCH http://localhost:3000/moves/6643d56f3bed9ffb77eb1c2d HTTP/1.1
+content-type: application/json
+
+{
+  "type": "agua"
+}
+
+### Crear muchos Movimientos
+POST http://localhost:3000/moves/createMany
+Content-Type: application/json
+
+{
+  "route": "data\\movimientos.json"
+}

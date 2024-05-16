@@ -1,0 +1,38 @@
+# Obtener todas las Habilidades
+GET http://localhost:3000/abilities HTTP/1.1
+
+### Obtener Habilidad
+GET http://localhost:3000/abilities/6643e187ab3b53ff13b48413 HTTP/1.1
+
+### Eliminar Habilidad
+DELETE http://localhost:3000/abilities/6643e187ab3b53ff13b48413 HTTP/1.1
+
+### Crear Habilidad
+POST http://localhost:3000/abilities HTTP/1.1
+content-type: application/json
+
+{
+  "number": 5,
+  "name": {
+    "spanish": "fuego brigido",
+    "english": "fire certero"
+  },
+  "generation": "IX",
+  "description": "lalaal lalal"
+}
+
+### Actualizar Habilidad
+PATCH http://localhost:3000/abilities/6643e187ab3b53ff13b48413 HTTP/1.1
+content-type: application/json
+
+{
+  "number": 6
+}
+
+### Crear muchas Habilidades
+POST http://localhost:3000/abilities/createMany
+Content-Type: application/json
+
+{
+  "route": "data\\habilidades.json"
+}
